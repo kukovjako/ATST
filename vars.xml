@@ -1,0 +1,51 @@
+<data>
+    <server>id.rambler.ru</server>
+
+
+    
+    <id_login>lobanov_autotest</id_login>
+    <id_pass>qweasd</id_pass>
+
+    
+    <tw_login>lobanov_autotest@rambler.ru</tw_login>
+    <tw_pass>qweasd123</tw_pass>
+
+    
+    <gmail_login>ramblerautotest@gmail.com</gmail_login>
+    <gmail_pass>Qweasd12</gmail_pass>
+
+    
+    <champ_login>ramblerautotest</champ_login>
+    <champ_pass>qweasd</champ_pass>
+
+    
+    <mailru_login>ramblerautotest@mail.ru</mailru_login>
+    <mailru_pass>Qweasd123</mailru_pass>
+
+    
+    <lenta_login>ramblerautotest@mail.ru</lenta_login>
+    <lenta_pass>QWEASD123</lenta_pass>
+
+    
+    <provider_id>passport.rambler.ru</provider_id>
+    <provider_champ>championat</provider_champ>
+
+
+    <vk_login>447749183776</vk_login>
+    <vk_pass>Qweasd123</vk_pass>
+    <vk_code>adc50e6e1dd6063e4a</vk_code>
+    <vk_id>408195346</vk_id>
+
+    
+    <id>778523047892582400</id>
+    <tw_oauth_token>yTOrtAAAAAAANNV6AAABWbCPC2s</tw_oauth_token>
+    <tw_oauth_verifier>VWU3eWSgP5osPFzCzWZ99fRIdQ0HLFEt</tw_oauth_verifier>
+
+    <email_id>392f8914-2a52-4191-a3a0-d645946e04b4</email_id>
+    <email_value>854336</email_value>
+
+    <auth_token>3f2776a1f85a5ff92a3134c7dc5c095e83ab0f113ff9d3d87ffe27a2c748dcaac588ac389e9790ec4ee0b7d1ec626cc599bad41b93d62f4f1a3e020751ba7976f57b07dae8d2d64e02d45d81f57296041443bc79b36d8afa2e1d69b5d2aeab0c30831cb375ecf5c79c351b3e1b9f8589</auth_token>
+
+
+
+</data>
