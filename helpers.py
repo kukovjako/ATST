@@ -23,22 +23,6 @@ from xmlrpclib import ServerProxy, Transport, Error
 
 
 
-
-def get_payload(method, args):
-    methodname = '<methodName>'+method+'</methodName>'
-    m = xmlrpclib.Marshaller()
-    payload = m.dumps([args])
-    xmlv = "<?xml version='1.0'?>"
-    payload = xmlv + '<methodCall>' + methodname + payload + '</methodCall>'
-    return payload
-
-def get_data(req, text):
-    soup = BeautifulSoup(req.text, 'xml')
-    element = soup.find(text=str(text))
-    elpar = element.find_parent().find_parent()
-    token = elpar.find('string').text
-    return token
-
 def get_headers():
     return {'Host':'id.rambler.ru', 'Content-Type': 'text/xml'}
 
