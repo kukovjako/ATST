@@ -1,5 +1,7 @@
 # ATST
+pip install -t requirements.txt
 
 Используется Python 2.7
  
-Тесты вида VK_sequence требуют установленный xvbf и selenium.
+Тесты вида VK_sequence требуют xvbf
+
